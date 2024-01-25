@@ -1,1 +1,1 @@
-# billing-mgmt-system
+# BILLING-MANAGEMENT-SYSTEM
